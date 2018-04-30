@@ -6,7 +6,7 @@ A primary goal of Stonebranch Marketplace is to be inclusive to the largest numb
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Stonebranch Market Place to help us create safe and positive experiences for everyone.
+We invite all those who participate in Stonebranch Marketplace to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source Citizenship
 
