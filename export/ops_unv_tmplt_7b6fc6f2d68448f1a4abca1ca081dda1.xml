@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-19 10:50:13" unload_format="1" unload_table="ops_unv_tmplt" unload_version="6.4.5.0"><ops_unv_tmplt action="INSERT_OR_UPDATE"><credentials_var/><broadcast_cluster/><agent/><use_common_script>false</use_common_script><credentials/><icon_filesize>1891</icon_filesize><icon>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</icon><icon_date_created>2017-11-17 11:15:22</icon_date_created><description/><sys_updated_on>2018-04-19 10:10:49</sys_updated_on><agent_var/><icon_filename>azure_icon.png</icon_filename><sys_id>7b6fc6f2d68448f1a4abca1ca081dda1</sys_id><output_return_text/><sys_updated_by>ops.admin</sys_updated_by><variable_prefix>az</variable_prefix><sys_created_on>2017-11-17 11:15:22</sys_created_on><script_windows/><credentials_var_check>false</credentials_var_check><agent_cluster_var/><agent_cluster_var_check>false</agent_cluster_var_check><agent_var_check>false</agent_var_check><sys_created_by>nbuer</sys_created_by><output_return_nline>100</output_return_nline><output_return_sline>1</output_return_sline><exit_code_text/><runtime_dir/><output_type>1</output_type><desktop_interact>false</desktop_interact><output_return_type>1</output_return_type><script_unix>#!/usr/bin/python3.4
+# #!/usr/local/bin/python2.7
+###################################################
+#
+#    Name: azure_sdk_delete_container.py
+#
+#    Purpose: lists all storage container
+#             All message not related to the Azure SDK
+#             command are written to standard err.
+#             use prefix #UT_INFO#, #UT_WARN#, #UT_ERROR#
+#             for internal messaging
+#
+#
+#    Prerequisites:
+#     - Universal Agent for Windows/Linux
+#     - Python 2.7.x
+#     - Requires the Python modules via pip
+#     - pip install azure-storage-blob
+#     - pip install azure-storage-logging
+#
+#     Version History:
+#     1.0  Nils Buer    2017-11-16    using SB Code standards
+#     1.1  Nils Buer    2017-11-18    added proxy credentials
+#     2.0  Nils Buer    2018-04-10    logging and Azure Keys
+#          
+####################################################
+version = "2.0"
+
+# Used modules
+
+import argparse
+import datetime,time
+import logging
+import os,sys
+
+# Sample CLI Command to test in Command Shell or dos Box
+
+# -- logging settings DEBUG, INFO, WARNING, ERROR, CRITICAL
+
+logging.basicConfig(level=logging.${ops_az_loglevel}, format=' %(asctime)s - %(levelname)s - %(message)s')
+def main():
+    SetVariables()                                # -- Set Variables from Universal Task Form or Command Line Input
+    delete_container()                            # -- retrieves the session token 
+
+
+# -- Set Variables from Universal Task Form or Command Line Input
+def SetVariables():
+    parser=argparse.ArgumentParser(description='Purpose : List the content of a bucket')
+     
+    # ## --&gt;Azure CLI specific Settings
+
+    parser.add_argument("--container", default="${ops_az_container}")
+    parser.add_argument("--useproxy", default="${ops_az_useproxy}")
+    parser.add_argument("--proxy", default="${ops_az_proxy}")
+    parser.add_argument("--port", default="${ops_az_port}")
+    parser.add_argument("--proxyuser", default="${_credentialUser('${ops_az_proxycred}')}")  
+    parser.add_argument("--proxypwd", default="${_credentialPwd('${ops_az_proxycred}')}")
+    parser.add_argument("--account_name", default="${_credentialUser('${ops_az_azure_account}')}")
+    parser.add_argument("--account_key", default="${_credentialPwd('${ops_az_azure_account}')}")
+    
+    parser.add_argument("--force", default="${ops_az_force}")
+    
+    # ## --
+    global args
+    args=parser.parse_args()
+    logging.info("Executing version " + version + " with the following paramaters")
+    logging.info(args)
+# --
+# ## --&gt; Functions Go Here
+
+def connect_blockblobservice():
+# Make the connection to Azure either via Proxy or direct
+ from azure.storage.blob import BlockBlobService
+ from azure.common import AzureException
+ 
+ block_blob_service = BlockBlobService(account_name=args.account_name, account_key=args.account_key)
+ if int(args.useproxy) == 1 :  
+   # connection via Proxy
+   logging.info('Azure Connection with Proxy: %s, Port: %s, Proxy_User: %s, Proxy_Pwd: %s' % ( args.proxy, args.port, args.proxyuser, args.proxypwd))
+   block_blob_service.set_proxy('%s' % (args.proxy),'%s' % (args.port), user='%s' % (args.proxyuser), password='%s' % (args.proxypwd))    
+ else:
+   # connection without Proxy
+   logging.info("Direct Azure Connection without Proxy")
+ return block_blob_service
+
+
+def check_blob_in_container():
+
+ #  check blob in an Azure block storage container
+ block_blob_service = connect_blockblobservice()
+ generator = block_blob_service.list_blobs('%s' % (args.container))
+ found=False
+ for blob in generator:
+    found=True
+ if found :
+    logging.debug('Blobs already exist in container: %s' % (args.container))
+    return True
+ else :
+    logging.debug('No Blobs found in container: %s' % (args.container))
+    return False
+  
+# -- end check_blob_in_container()
+  
+
+def delete_container():
+
+ #  delete storage container 
+ block_blob_service = connect_blockblobservice()
+ if check_blob_in_container():
+     if args.force == "true" :
+       logging.info('Force flag set, container: %s ,with all blob will be deleted' % (args.container))
+       block_blob_service.delete_container(container_name=args.container, fail_not_exist=True)
+       logging.info('Container: %s ,with all blob has been deleted - It may take some time until reuse of container is possible' % (args.container))
+     else :
+       logging.error('Blob exists in container %s, container will not be deleted, set force flag' % (args.container) )
+       exit(1)
+ else:
+     logging.info('Container: %s will be deleted' % (args.container))
+     block_blob_service.delete_container(container_name=args.container, fail_not_exist=True)
+     logging.info('Container: %s deleted- It may take some time until reuse of container is possible' % (args.container))
+
+# -- Execute
+main()
+</script_unix><output_return_file/><run_as_sudo>false</run_as_sudo><script/><agent_type>2</agent_type><script_type_windows/><environment/><agent_cluster/><elevate_user>false</elevate_user><exit_code_output/><name>AZ SDK Delete Container</name><exit_codes>0</exit_codes><exit_code_processing>1</exit_code_processing><create_console>false</create_console><related_items_node><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-17 11:17:40</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>08a10fedf28a48b1937b0831829aca85</sys_id><require_if_field_value/><sys_updated_by>nbuer</sys_updated_by><sys_created_on>2017-11-17 11:17:40</sys_created_on><field_value>1</field_value><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>useproxy</label><int_field_max/><sequence>2</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField1</field_mapping><name>useproxy</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-04-19 09:56:01</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>1980a25b97334ad2af79d0dbe3803b96</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-04-19 09:56:01</sys_created_on><field_value>false</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>force</label><int_field_max/><sequence>7</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>deletes the container with all contained blocks</hint><field_mapping>booleanField1</field_mapping><name>force</name><field_regex/><field_type>3</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-04-10 08:31:42</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>2cf675b164c442548e8aa8bde2bb8e50</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-04-10 08:31:42</sys_created_on><field_value>INFO</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>loglevel</label><int_field_max/><sequence>6</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField2</field_mapping><name>loglevel</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-17 11:17:05</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>51912cb7068646d3a231e0cee227af94</sys_id><require_if_field_value/><sys_updated_by>nbuer</sys_updated_by><sys_created_on>2017-11-17 11:17:05</sys_created_on><field_value/><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>proxy</label><int_field_max/><sequence>0</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField1</field_mapping><name>proxy</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-17 11:19:20</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>66ac16c8382e4dae956c7fcfaaa89246</sys_id><require_if_field_value/><sys_updated_by>nbuer</sys_updated_by><sys_created_on>2017-11-17 11:19:20</sys_created_on><field_value/><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>container</label><int_field_max/><sequence>4</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField3</field_mapping><name>container</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-18 13:30:36</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>8ea4a721067841cebd9e1f4c9474e910</sys_id><require_if_field_value/><sys_updated_by>nbuer</sys_updated_by><sys_created_on>2017-11-18 13:30:36</sys_created_on><field_value/><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>proxycred</label><int_field_max/><sequence>5</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>credentialField2</field_mapping><name>proxycred</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-17 11:17:14</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>98fa05acb09448e9a0470e8337422f83</sys_id><require_if_field_value/><sys_updated_by>nbuer</sys_updated_by><sys_created_on>2017-11-17 11:17:14</sys_created_on><field_value/><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>port</label><int_field_max/><sequence>1</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField2</field_mapping><name>port</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2017-11-17 11:19:02</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>f5871bda37024f8b98b03245f1f6f20d</sys_id><require_if_field_value/><sys_updated_by>nbuer</sys_updated_by><sys_created_on>2017-11-17 11:18:32</sys_created_on><field_value/><sys_created_by>nbuer</sys_created_by><int_field_min/><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Azure Account</label><int_field_max/><sequence>3</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>credentialField1</field_mapping><name>azure_account</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>2cf675b164c442548e8aa8bde2bb8e50</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>3bab7be012124fea8379424bb3a57c79</sys_id><sequence>4</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-04-10 08:32:23</sys_created_on><field_value_label>CRITICAL</field_value_label><field_value>CRITICAL</field_value><sys_updated_on>2018-04-10 08:32:23</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>2cf675b164c442548e8aa8bde2bb8e50</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>48f1de30cf8145a8b63b34522aa1be04</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-04-10 08:31:58</sys_created_on><field_value_label>DEBUG</field_value_label><field_value>DEBUG</field_value><sys_updated_on>2018-04-10 08:31:58</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>2cf675b164c442548e8aa8bde2bb8e50</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>5ae6aab912e742bfb71bdb0b36820cee</sys_id><sequence>2</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-04-10 08:32:08</sys_created_on><field_value_label>WARNING</field_value_label><field_value>WARNING</field_value><sys_updated_on>2018-04-10 08:32:08</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>2cf675b164c442548e8aa8bde2bb8e50</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>68ff7892592c4a008407d839257d5864</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-04-10 08:31:49</sys_created_on><field_value_label>INFO</field_value_label><field_value>INFO</field_value><sys_updated_on>2018-04-10 08:31:49</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>08a10fedf28a48b1937b0831829aca85</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>e82c94724bf6444e9b31ce9922387404</sys_id><sequence>1</sequence><sys_updated_by>nbuer</sys_updated_by><sys_created_on>2017-11-17 11:17:55</sys_created_on><field_value_label>No</field_value_label><field_value>0</field_value><sys_updated_on>2017-11-17 11:17:55</sys_updated_on><sys_created_by>nbuer</sys_created_by><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>08a10fedf28a48b1937b0831829aca85</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>e82e9e9f0b384f6ba2559d3b94b52b09</sys_id><sequence>0</sequence><sys_updated_by>nbuer</sys_updated_by><sys_created_on>2017-11-17 11:17:48</sys_created_on><field_value_label>Yes</field_value_label><field_value>1</field_value><sys_updated_on>2017-11-17 11:17:48</sys_updated_on><sys_created_by>nbuer</sys_created_by><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>2cf675b164c442548e8aa8bde2bb8e50</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>ec4f5c3632b8418e90ae9690ed842637</sys_id><sequence>3</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-04-10 08:32:16</sys_created_on><field_value_label>ERROR</field_value_label><field_value>ERROR</field_value><sys_updated_on>2018-04-10 08:32:16</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>7b6fc6f2d68448f1a4abca1ca081dda1</universal_template_id></ops_unv_tmplt_field_choice></related_items_node></ops_unv_tmplt></unload>
